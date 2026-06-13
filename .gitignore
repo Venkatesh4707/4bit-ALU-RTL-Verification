@@ -1,0 +1,16 @@
+*.vcd
+*.wlf
+*.log
+work/
+transcript
+vsim.wlf
+modelsim.ini
+*.jou
+*.str
+.Xil/
+*.bit
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
